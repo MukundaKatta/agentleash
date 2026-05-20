@@ -3,6 +3,8 @@
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/agentleash.svg)](https://pypi.org/project/agentleash/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+![demo](docs/demo.gif)
+
 **Token + dollar caps, vendor allowlist, tool-arg validation, and an audit trail for money-making AI agents.**
 
 Drop in two lines and your agent can't blow up your bank account.
